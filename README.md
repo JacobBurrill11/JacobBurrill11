@@ -20,6 +20,7 @@ Whitman College — GPA 3.704, cum laude (May 2025)
 | Project | Tools | Description |
 |---------|-------|-------------|
 | [US Job Market by College Major](https://github.com/JacobBurrill11/job-market-analysis) | Python, Matplotlib | Analysis of unemployment trends across majors (2019–2025), focused on quantitative fields |
+| [Beware the Dark](https://github.com/JacobBurrill11/beware-the-dark) | Godot 4, C# | 3D graveyard platformer with enemy AI state machines and a dynamic light mechanic |
 
 ---
 
